@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Catslist component render first grid with cats image 1`] = `
+<div>
+  <div
+    class="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-gridContainerStyle-5 MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 makeStyles-selected-3 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_1ttg"
+              class="makeStyles-imageStyle-6"
+              src="Image url"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-gridContainerStyle-5 MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 makeStyles-selected-3 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_2ttg"
+              class="makeStyles-imageStyle-6"
+              src="Image url"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      />
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders loader by default render loader with intitial store 1`] = `
+<div>
+  <div
+    class="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-gridContainerStyle-5 MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 makeStyles-selected-3 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_1ttg"
+              class="makeStyles-imageStyle-6"
+              src="Image url"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-gridContainerStyle-5 MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 makeStyles-selected-3 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_2ttg"
+              class="makeStyles-imageStyle-6"
+              src="Image url"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      />
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-justify-content-xs-center"
+      />
+    </div>
+  </div>
+</div>
+`;

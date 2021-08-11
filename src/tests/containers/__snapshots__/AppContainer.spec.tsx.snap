@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Catslist component render first grid with cats image 1`] = `
+<div>
+  <div>
+    <div>
+      <img
+        alt="loader"
+        class="makeStyles-loaderStyle-6"
+        src="loader.gif"
+      />
+      <p
+        class="MuiTypography-root makeStyles-loaderText-7 MuiTypography-body1"
+      >
+        Hang tight! Your cats are on their way :)
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders app container  render app container which takes care of all the business logic 1`] = `
+<div>
+  <div>
+    <div>
+      <img
+        alt="loader"
+        class="makeStyles-loaderStyle-6"
+        src="loader.gif"
+      />
+      <p
+        class="MuiTypography-root makeStyles-loaderText-7 MuiTypography-body1"
+      >
+        Hang tight! Your cats are on their way :)
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders app container  render app container which takes care of all the bussiness logic 1`] = `
+<div>
+  <div>
+    <div>
+      <img
+        alt="loader"
+        class="makeStyles-loaderStyle-6"
+        src="loader.gif"
+      />
+      <p
+        class="MuiTypography-root makeStyles-loaderText-7 MuiTypography-body1"
+      >
+        Hang tight! Your cats are on their way :)
+      </p>
+    </div>
+  </div>
+</div>
+`;

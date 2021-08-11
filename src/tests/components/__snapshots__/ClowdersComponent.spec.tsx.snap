@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders selected clowder render second grid with valid clowders 1`] = `
+<div>
+  <div
+    class="MuiGrid-root makeStyles-root-1 MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_1ttg"
+              class="makeStyles-imageStyle-3"
+              src="Image url"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_2wsb"
+              class="makeStyles-imageStyle-3"
+              src="Image url"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          >
+            <img
+              alt="Cat image_3brr"
+              class="makeStyles-imageStyle-3"
+              src="Image url"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-center"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <div
+            class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation0 MuiPaper-rounded"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
